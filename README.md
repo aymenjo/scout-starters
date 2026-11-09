@@ -1,0 +1,1 @@
+# aymenjo/scout-starters
