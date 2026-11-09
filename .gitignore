@@ -1,0 +1,6 @@
+# Playwright CLI output (may contain credentials)
+.playwright-cli/
+
+# Dépendances et fichiers système
+node_modules/
+.DS_Store
